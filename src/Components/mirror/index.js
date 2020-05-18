@@ -9,7 +9,7 @@ function Mirror(props) {
   return (
     <div>
       <span>
-       {Count*Count}
+       {Count*2}
       </span>
     </div>
   );
